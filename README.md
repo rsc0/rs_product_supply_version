@@ -1,0 +1,1 @@
+# rs_product_supply_version
